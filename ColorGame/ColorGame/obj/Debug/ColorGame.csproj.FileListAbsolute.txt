@@ -1,0 +1,11 @@
+D:\PROGRAMS\ColorGame\ColorGame\bin\Debug\ColorGame.exe.config
+D:\PROGRAMS\ColorGame\ColorGame\bin\Debug\ColorGame.exe
+D:\PROGRAMS\ColorGame\ColorGame\bin\Debug\ColorGame.pdb
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.csproj.AssemblyReference.cache
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.Form1.resources
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.Properties.Resources.resources
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.csproj.GenerateResource.cache
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.csproj.CoreCompileInputs.cache
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.exe
+D:\PROGRAMS\ColorGame\ColorGame\obj\Debug\ColorGame.pdb
